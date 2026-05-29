@@ -1,0 +1,31 @@
+{
+  "session_name": "20260421_162908",
+  "start_time": "2026-04-21T16:29:08.464767",
+  "path_points": [
+    {
+      "lat": 23.83780789305107,
+      "lon": 90.35932039529321,
+      "timestamp": "2026-04-21T16:29:09.122864"
+    },
+    {
+      "lat": 23.83780789205478,
+      "lon": 90.35932039451187,
+      "timestamp": "2026-04-21T16:29:10.118859"
+    }
+  ],
+  "waypoints": [],
+  "events": [
+    {
+      "type": "session_start",
+      "description": "Dashboard started, waiting for GPS data",
+      "timestamp": "2026-04-21T16:29:08.464773"
+    },
+    {
+      "type": "session_end",
+      "description": "Dashboard closed",
+      "timestamp": "2026-04-21T16:29:15.475808"
+    }
+  ],
+  "end_time": "2026-04-21T16:29:15.475832",
+  "total_distance_m": 0.0001363384955472115
+}

@@ -1,0 +1,19 @@
+{
+  "session_name": "20260527_083036",
+  "start_time": "2026-05-27T08:30:36.076925",
+  "path_points": [],
+  "waypoints": [],
+  "events": [
+    {
+      "type": "session_start",
+      "description": "Dashboard started, waiting for GPS data",
+      "timestamp": "2026-05-27T08:30:36.076949"
+    },
+    {
+      "type": "session_end",
+      "description": "Dashboard closed",
+      "timestamp": "2026-05-27T08:30:55.389440"
+    }
+  ],
+  "end_time": "2026-05-27T08:30:55.389483"
+}
