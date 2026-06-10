@@ -1,8 +1,8 @@
 {
   "mission": {
     "name": "Motel 6",
-    "latitude": 38.992309345372774,
-    "longitude": -110.14003520561779
+    "latitude": 0,
+    "longitude": 0
   },
   "other_locations": {
     "New York": {"latitude": 40.7128, "longitude": -74.0060},
